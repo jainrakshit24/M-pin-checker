@@ -1,6 +1,6 @@
 # 🔐 MPIN Strength Checker
 
-![MPIN Strength Checker Demo](screenshot.png)
+![MPIN Strength Checker Demo](output.png)
 This project is a simple Python-based tool that checks whether your MPIN (Mobile PIN used for banking apps) is **strong** or **weak** based on commonly used patterns and personal information.
 
 ## 📘 Background
